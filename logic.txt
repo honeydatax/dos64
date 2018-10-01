@@ -1,0 +1,1 @@
+the logic of the components are of various types, in the example of an AND gate, the inputs in the solar panel let or not pass the light in the passage, light by the various LDC of liquid crystals, if the solar panel is fed, with polarized light, feeds the LDC of liquid crystals, and the LDC of liquid crystals, let the polarized light pass.
